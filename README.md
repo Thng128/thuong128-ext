@@ -1,1 +1,1 @@
-b1: vào mục "tiện ích mở rộng trên trình duyệt" hoặc ()
+đọc mục 3 trên https://www.caytamgui.com/2015/02/tao-file-crx-tu-extensions-chrome_18.html
